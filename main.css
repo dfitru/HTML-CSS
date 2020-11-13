@@ -1,0 +1,21 @@
+body{
+  
+    background-color: aliceblue;
+
+}
+nav{
+    text-align: right;
+}
+form input{
+display: block;
+
+    
+}
+form{
+    background-color: darkgray;
+   
+    width: 300px;
+    height: 300px;
+    margin: 0px 0px 0px 500px;
+    padding: 0px 0px 10px 30px;
+}
